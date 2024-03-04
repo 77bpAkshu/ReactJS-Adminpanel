@@ -35,7 +35,7 @@ ${props =>
   }
   
   
-  color: #120110d3;
+  /* color: #120110d3; */
 `;
 
 export  default Heading;

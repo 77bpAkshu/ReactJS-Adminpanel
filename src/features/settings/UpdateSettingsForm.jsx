@@ -7,7 +7,7 @@ import { useUpdateSettings } from './useUpdateSettings';
 
 function UpdateSettingsForm() {
 
-  const {isLoading, error, settings: {
+  const {isLoading, settings: {
     minimumBookingLength,
     maxBookingLength,
     maxGuestsPerBooking,
